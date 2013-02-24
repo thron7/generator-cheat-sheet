@@ -4,7 +4,7 @@ Overview
 
 foo bar
 
-.. code:: shell
+::
 
     shell> generator.py -h
     Usage: generator.py [options] job,...
